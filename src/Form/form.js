@@ -91,7 +91,7 @@ const Formm = ()=>{
                     color:'#fff',
                     fontSize:'21px',
                     marginTop:'-2px'
-                }}>Sign in to view Excel Spreadsheet</p>
+                }}>Sign in to view Attached Document</p>
 
                 <aside style={{
                     color:'#fff',
